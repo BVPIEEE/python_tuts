@@ -1,1 +1,1 @@
-# python_tuts
+# python_tutorals
